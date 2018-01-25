@@ -1,4 +1,4 @@
-#Permutations de l'algorithme DES
+#Permutations de l'algorithme DES --
 # lien : http://www.commentcamarche.net/contents/204-introduction-au-chiffrement-avec-des
 
 #Permutation initiale
